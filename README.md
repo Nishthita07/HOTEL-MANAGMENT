@@ -17,7 +17,7 @@ Features
 
 Efficient use of SQL queries, views, triggers, and stored procedures
 
-🛠️ Technologies Used
+Technologies Used
 -SQL (MySQL / PostgreSQL / SQLite) – Core database logic and design
 
 -ER Diagram – For conceptual database modeling
